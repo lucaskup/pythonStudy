@@ -1,4 +1,6 @@
-mport sys
+#!/bin/python3
+
+import sys
 
 dic = {}
 n = int(input())

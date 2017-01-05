@@ -1,4 +1,4 @@
-nt(input())
+n = int(input())
 x = [int(c_temp) for c_temp in input().strip().split(' ')]
 w = [int(c_temp) for c_temp in input().strip().split(' ')]
 
