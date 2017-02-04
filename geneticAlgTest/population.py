@@ -29,7 +29,7 @@ def done(population,sWord):
             return True
     return False
 
-sWord = 'lucas teste!'
+sWord = 'lucas teste'
 if len(sys.argv) > 1:
     sWord = ' '.join(''.join(e) for e in sys.argv[1:])
     sWord = sWord.lower()
